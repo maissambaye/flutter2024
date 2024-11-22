@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "634384556608",
+    "project_id": "l3info2024",
+    "storage_bucket": "l3info2024.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:634384556608:android:dd2f040da7f653582ab5a5",
+        "android_client_info": {
+          "package_name": "com.example.login_register"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhS4S5ETmyl27BhPtHFTRrJWybv_Y4WHk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
